@@ -4,13 +4,11 @@
 
 ### University coursework · hackathons · final-year project — BSc Computer Science, USM
 
-A read-only archive of the work that taught me how to build. Frozen here for posterity.
+This is the companion archive to my **[main profile →](https://github.com/pmgwee)**A read-only archive of the work that taught me how to build. Frozen here for posterity.
 
 </div>
 
 ---
-
-This is the companion archive to my **[main profile →](https://github.com/pmgwee)**. The current 2026 work — lives there; everything below is the **foundation**
 ## The archive
 
 | Category | Project | Source | Language |

@@ -12,7 +12,7 @@ This is the companion archive to my **[main profile →](https://github.com/pmgw
 ## The archive
 
 | Category | Project | Source | Language |
-| --- | --- | --- | --- |
+| ------ | --- | --- | --- |
 | FYP - Web | **Internify** (CAT304, Group 38) — final-year software-engineering project; a platform connecting Malaysian university students with companies offering internships. | [cat304-group38](https://github.com/limchinfeng/cat304-group38) · [my fork](https://github.com/pmgwee/Internify) | TypeScript · Next.js · Prisma |
 | Hackathon - Blockchain | **Trustay** — Algorand Hackathon 2023 vacation-rental dApp frontend ("Trust and Transparency in Every Booking"). | [algohub-fronted](https://github.com/limchinfeng/algohub-fronted) | TypeScript · Next.js |
 | Hackathon - Official Web | **Odyssey Hackfest 2023** entry (mobile app, front-end). ⚠️ Source appears private/removed — link kept for reference. | [PicadillyPica](https://github.com/PicadillyPica) | TypeScript · Next.js |

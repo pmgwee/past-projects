@@ -34,7 +34,7 @@ This is the companion archive to my **[main profile →](https://github.com/pmgw
 
 <div align="center">
 
-**Perming Gwee** · Creative Technologist & AI Consultant
+**Perming Gwee** · Creative Technologist - Based in Malaysia
 [mingcreatives.com](https://mingcreatives.com) · [perminggwee@gmail.com](mailto:perminggwee@gmail.com) · [github.com/pmgwee](https://github.com/pmgwee)
 
 ← back to **[pmgwee/pmgwee](https://github.com/pmgwee)**

@@ -10,7 +10,7 @@ A read-only archive of the work that taught me how to build. Frozen here for pos
 
 ---
 
-This is the companion archive to my **[main profile →](https://github.com/pmgwee)**. The current 2026 work — cinematic 3D web and production AI agents — lives there; everything below is the **foundation**: the group projects, hackathon sprints, and coursework exercises from my Computer Science degree at **Universiti Sains Malaysia (USM)**. It spans web, mobile, blockchain, AI, and algorithms. Kept honestly, because every cinematic WebGL build and agent harness on my main profile traces back to a row in this table.
+This is the companion archive to my **[main profile →](https://github.com/pmgwee)**. The current 2026 work — lives there; everything below is the **foundation**: the group projects
 
 ## The archive
 

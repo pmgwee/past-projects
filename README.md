@@ -10,8 +10,7 @@ A read-only archive of the work that taught me how to build. Frozen here for pos
 
 ---
 
-This is the companion archive to my **[main profile →](https://github.com/pmgwee)**. The current 2026 work — lives there; everything below is the **foundation**: the group projects
-
+This is the companion archive to my **[main profile →](https://github.com/pmgwee)**. The current 2026 work — lives there; everything below is the **foundation**
 ## The archive
 
 | Category | Project | Source | Language |

@@ -1,1 +1,46 @@
+<div align="center">
+
 # past-projects
+
+### University coursework · hackathons · final-year project — BSc Computer Science, USM
+
+A read-only archive of the work that taught me how to build. Frozen here for posterity.
+
+</div>
+
+---
+
+This is the companion archive to my **[main profile →](https://github.com/pmgwee)**. The current 2026 work — cinematic 3D web and production AI agents — lives there; everything below is the **foundation**: the group projects, hackathon sprints, and coursework exercises from my Computer Science degree at **Universiti Sains Malaysia (USM)**. It spans web, mobile, blockchain, AI, and algorithms. Kept honestly, because every cinematic WebGL build and agent harness on my main profile traces back to a row in this table.
+
+## The archive
+
+| Category | Project | Source | Language |
+| --- | --- | --- | --- |
+| Web | **Internify** (CAT304, Group 38) — final-year software-engineering project; a platform connecting Malaysian university students with companies offering internships. | [cat304-group38](https://github.com/limchinfeng/cat304-group38) · [my fork](https://github.com/pmgwee/Internify) | TypeScript · Next.js · Prisma |
+| Web / Blockchain | **Trustay** — Algorand Hackathon 2023 vacation-rental dApp frontend ("Trust and Transparency in Every Booking"). | [algohub-fronted](https://github.com/limchinfeng/algohub-fronted) | TypeScript · Next.js |
+| Blockchain | **Trustay smart contract** — PyTeal Algorand contract that automates the host/guest security-deposit transaction via an on-chain middleman, preventing deposit scams and speeding up refunds. | [Trustay_smartcontract](https://github.com/angelineqee/Trustay_smartcontract) | Python · PyTeal / TEAL |
+| Hackathon | **Odyssey Hackfest 2023** entry (mobile app, front-end). ⚠️ Source appears private/removed — link kept for reference. | [PicadillyPica](https://github.com/PicadillyPica) | Unverified |
+| Mobile | **Seamless E-Payments** (PayHack, team 12) — frictionless e-payment flows. | [payhack_12](https://github.com/pmgwee/payhack_12) | Dart · Flutter |
+| Mobile | **Poor Waste Management** (Vhack, team V007) — tackling inefficient waste-management systems. | [Vhack_V007](https://github.com/pmgwee/Vhack_V007) | Dart · Flutter |
+| Desktop | **Cinema Booking System** (CAT201) — movie seat selection and ticket booking. | [CAT201_Project](https://github.com/pmgwee/CAT201_Project) | Java |
+| AI | **Predictive ML/DL** (CPC251) — building and evaluating predictive machine-learning / deep-learning models. | [CPC251-ML-DL-Project](https://github.com/pmgwee/CPC251-ML-DL-Project) | Python · Jupyter |
+| Tools | **ExcelToCSV** — containerized utility converting Excel files to CSV, packaged with Docker. | [ExcelToCSV_php](https://github.com/pmgwee/ExcelToCSV_php) | PHP · Docker |
+| Algorithms | **Radix Sort** (CPT212, Data Structures coursework). | [Radix-Sort-Algorithm-CPT212-](https://github.com/pmgwee/Radix-Sort-Algorithm-CPT212-) | C / C++ |
+| Algorithms | **GUI DFS Path Finder** — Java Swing visualizer for depth-first-search pathfinding on a grid. | [GUI_DFSpathFinder](https://github.com/pmgwee/GUI_DFSpathFinder) | Java · Swing |
+| Algorithms | **LeetCode Challenge** — personal solutions to LeetCode problems across multiple languages. | [LeetCode-Challenge](https://github.com/pmgwee/LeetCode-Challenge) | Python · Java · JavaScript |
+
+### Notes
+- **Languages verified** against the live repos where the source is public — Internify, the Trustay frontend, and the Trustay smart contract are confirmed. The remaining rows are inferred from repo name + standard USM course context (CAT201 = OOP/Java, CAT304 = SE, CPC251 = AI/ML, CPT212 = Data Structures).
+- **Odyssey Hackfest 2023** could not be verified — worth confirming the correct handle before citing publicly.
+- This archive is intentionally read-only. For current work, see the **[main profile](https://github.com/pmgwee)**.
+
+---
+
+<div align="center">
+
+**Perming Gwee** · Creative Technologist & AI Consultant
+[mingcreatives.com](https://mingcreatives.com) · [perminggwee@gmail.com](mailto:perminggwee@gmail.com) · [github.com/pmgwee](https://github.com/pmgwee)
+
+← back to **[pmgwee/pmgwee](https://github.com/pmgwee)**
+
+</div>
